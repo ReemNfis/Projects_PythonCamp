@@ -17,6 +17,3 @@ The code experience is preliminary, and there are some errors. For example, when
 This project was a development of an idea for a project in the "Artificial Intelligence" course.
 Enjoy a fun drawing experience using the arrow keys on the keyboard. I hope you have a delightful time!
 ```
-
-
-ex git: 
